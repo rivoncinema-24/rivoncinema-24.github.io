@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f0f0f;
+  color: white;
+}
+
+header {
+  padding: 20px;
+  text-align: center;
+  background: #e50914; /* Rivon Red */
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  padding: 10px;
+  background: #1c1c1c;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+.ad-box {
+  margin: 20px 0;
+  padding: 20px;
+  background: #1c1c1c;
+  text-align: center;
+}
